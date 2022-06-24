@@ -1,3 +1,6 @@
+## NoteApp with react-redux
+www.patika.dev kapsamında yapılmıştır.Detay linki için [tıklayınız](https://app.patika.dev/courses/redux/todo-app-odev) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
